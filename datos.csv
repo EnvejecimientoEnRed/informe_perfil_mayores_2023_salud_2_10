@@ -1,0 +1,1261 @@
+causa_de_muerte,sexo,periodo,muertes,poblacion,tasa_mortalidad,causa_muerte_cat
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1980,987,1703406,57.942733558529206,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1981,1020,1731649,58.90339208465457,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1982,989,1763122,56.093679280276696,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1983,925,1786792,51.76875652006501,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1984,943,1816834,51.903476046793486,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1985,1035,1854679,55.80480503634322,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1986,976,1906263,51.19965083516808,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1987,1027,1973492,52.03973464295777,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1988,1160,2039771,56.86912893653258,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1989,1255,2102863,59.68054029197338,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1990,1343,2165697,62.012368304522745,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1991,1364,2229548,61.178319551765654,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1992,1400,2294607,61.01262656306723,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1993,1562,2361074,66.15633393955463,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1994,1480,2430501,60.89279535371514,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1995,1653,2501907,66.06960210751238,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1996,1685,2573444,65.47645878441497,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1997,1635,2643616,61.84710638761454,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1998,1684,2715352,62.01774208279442,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,1999,1785,2776465,64.29038363530604,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2000,1733,2836940,61.0869457937073,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2001,1852,2903761,63.77935374157859,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2002,1910,2960774,64.51015849234017,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2003,2067,3001136,68.87391974239088,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2004,2126,3015259,70.50803927622802,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2005,2342,3049867,76.79023380363799,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2006,2186,3112155,70.24071744498588,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2007,2401,3154365,76.11674615968666,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2008,2393,3214073,74.45381607698394,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2009,2164,3285475,65.86566630395909,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2010,2082,3364111,61.88856431907271,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2011,1974,3439265,57.395984316416445,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2012,2072,3498769,59.220828811504845,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2013,1982,3574425,55.44947788805192,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2014,2185,3647967,59.89637515909546,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2015,2684,3702295,72.49557369145354,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2016,2406,3759232,64.0024345398209,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2017,2464,3817681,64.54179906597749,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2018,2419,3881154,62.32682341386093,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2019,2300,3952736,58.18754402014199,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2020,37448,4007280,934.499211435188,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Hombres,2021,22022,4073128,540.6655523715434,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1980,848,2475332,34.25803084192343,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1981,838,2528137,33.14693784395387,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1982,764,2584400,29.561987308466183,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1983,795,2629964,30.22855065696717,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1984,832,2681698,31.025119159577255,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1985,883,2739126,32.23656012903386,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1986,911,2801065,32.52334379959051,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1987,1026,2878551,35.64293285059045,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1988,1067,2958475,36.065878535394084,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1989,1212,3032296,39.969712719338744,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1990,1277,3109970,41.06148933912546,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1991,1354,3186139,42.4965765774814,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1992,1433,3262630,43.92162151393201,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1993,1531,3343367,45.79216101612536,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1994,1568,3427229,45.75124685277815,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1995,1691,3513749,48.12523603706468,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1996,1628,3597952,45.24796328578035,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1997,1689,3680634,45.888833282526875,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1998,1906,3767437,50.59142329387326,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,1999,1932,3840517,50.30572706747555,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2000,1953,3912891,49.911944902119686,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2001,2082,3994792,52.11785745040042,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2002,2232,4065821,54.896661707438675,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2003,2586,4118108,62.79582759849911,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2004,2519,4139000,60.860111137956025,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2005,2615,4180461,62.55290983458523,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2006,2626,4250166,61.785822012599034,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2007,2984,4297068,69.44269906829494,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2008,3083,4363318,70.65723836768258,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2009,2679,4441642,60.315531958676544,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2010,2585,4528679,57.080663036616194,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2011,2629,4612933,56.99193983524149,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2012,2750,4675622,58.81570409241808,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2013,2660,4758563,55.89922840151533,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2014,2781,4839814,57.460885893548806,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2015,3417,4897557,69.76947894633999,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2016,3341,4960687,67.34954251296242,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2017,3186,5022684,63.43222070112315,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2018,2864,5091496,56.250657959860916,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2019,2774,5173068,53.623884317778156,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2020,37106,5236250,708.6369061828599,I. Infecciosas*
+001-008  I.Enfermedades infecciosas y parasitarias,Mujeres,2021,18697,5313145,351.90080451408727,I. Infecciosas*
+009-041  II.Tumores,Hombres,1980,20798,1703406,1220.9655243670622,II. Tumores
+009-041  II.Tumores,Hombres,1981,21503,1731649,1241.7643529375757,II. Tumores
+009-041  II.Tumores,Hombres,1982,22184,1763122,1258.2226300845887,II. Tumores
+009-041  II.Tumores,Hombres,1983,22980,1786792,1286.1038106282097,II. Tumores
+009-041  II.Tumores,Hombres,1984,24321,1816834,1338.6473392726027,II. Tumores
+009-041  II.Tumores,Hombres,1985,25698,1854679,1385.5766954820754,II. Tumores
+009-041  II.Tumores,Hombres,1986,26503,1906263,1390.3118300045692,II. Tumores
+009-041  II.Tumores,Hombres,1987,27946,1973492,1416.0685728647495,II. Tumores
+009-041  II.Tumores,Hombres,1988,29281,2039771,1435.504279647078,II. Tumores
+009-041  II.Tumores,Hombres,1989,30357,2102863,1443.6033160505465,II. Tumores
+009-041  II.Tumores,Hombres,1990,31759,2165697,1466.4562955944436,II. Tumores
+009-041  II.Tumores,Hombres,1991,32646,2229548,1464.2429766033295,II. Tumores
+009-041  II.Tumores,Hombres,1992,33712,2294607,1469.1840476386587,II. Tumores
+009-041  II.Tumores,Hombres,1993,35676,2361074,1511.0072788908776,II. Tumores
+009-041  II.Tumores,Hombres,1994,37006,2430501,1522.566746526745,II. Tumores
+009-041  II.Tumores,Hombres,1995,38036,2501907,1520.2803301641509,II. Tumores
+009-041  II.Tumores,Hombres,1996,38628,2573444,1501.0235311123924,II. Tumores
+009-041  II.Tumores,Hombres,1997,40034,2643616,1514.3651725515356,II. Tumores
+009-041  II.Tumores,Hombres,1998,41119,2715352,1514.3156393719858,II. Tumores
+009-041  II.Tumores,Hombres,1999,42232,2776465,1521.070858087532,II. Tumores
+009-041  II.Tumores,Hombres,2000,42598,2836940,1501.5474419621141,II. Tumores
+009-041  II.Tumores,Hombres,2001,44549,2903761,1534.1827374911365,II. Tumores
+009-041  II.Tumores,Hombres,2002,44442,2960774,1501.0264207940222,II. Tumores
+009-041  II.Tumores,Hombres,2003,45397,3001136,1512.6605392091528,II. Tumores
+009-041  II.Tumores,Hombres,2004,45729,3015259,1516.5861373765904,II. Tumores
+009-041  II.Tumores,Hombres,2005,45628,3049867,1496.0652382546518,II. Tumores
+009-041  II.Tumores,Hombres,2006,45867,3112155,1473.8019153930315,II. Tumores
+009-041  II.Tumores,Hombres,2007,46858,3154365,1485.497081028987,II. Tumores
+009-041  II.Tumores,Hombres,2008,46852,3214073,1457.7142460672176,II. Tumores
+009-041  II.Tumores,Hombres,2009,47674,3285475,1451.0535006353723,II. Tumores
+009-041  II.Tumores,Hombres,2010,48838,3364111,1451.7356888640118,II. Tumores
+009-041  II.Tumores,Hombres,2011,49819,3439265,1448.536242482042,II. Tumores
+009-041  II.Tumores,Hombres,2012,50976,3498769,1456.969579872235,II. Tumores
+009-041  II.Tumores,Hombres,2013,50928,3574425,1424.7886023626177,II. Tumores
+009-041  II.Tumores,Hombres,2014,50849,3647967,1393.8996706932928,II. Tumores
+009-041  II.Tumores,Hombres,2015,51417,3702295,1388.7872252211127,II. Tumores
+009-041  II.Tumores,Hombres,2016,52302,3759232,1391.2948176648847,II. Tumores
+009-041  II.Tumores,Hombres,2017,52573,3817681,1377.0925333992022,II. Tumores
+009-041  II.Tumores,Hombres,2018,52087,3881154,1342.0492977088775,II. Tumores
+009-041  II.Tumores,Hombres,2019,52493,3952736,1328.0168470649191,II. Tumores
+009-041  II.Tumores,Hombres,2020,52022,4007280,1298.1872991156097,II. Tumores
+009-041  II.Tumores,Hombres,2021,52855,4073128,1297.6513382343987,II. Tumores
+009-041  II.Tumores,Mujeres,1980,15362,2475332,620.6036200396552,II. Tumores
+009-041  II.Tumores,Mujeres,1981,15287,2528137,604.674509332366,II. Tumores
+009-041  II.Tumores,Mujeres,1982,15970,2584400,617.9383996285405,II. Tumores
+009-041  II.Tumores,Mujeres,1983,16453,2629964,625.5979169296614,II. Tumores
+009-041  II.Tumores,Mujeres,1984,17262,2681698,643.6966429478637,II. Tumores
+009-041  II.Tumores,Mujeres,1985,18120,2739126,661.5248805640923,II. Tumores
+009-041  II.Tumores,Mujeres,1986,18839,2801065,672.5656134363179,II. Tumores
+009-041  II.Tumores,Mujeres,1987,19452,2878551,675.7566567345863,II. Tumores
+009-041  II.Tumores,Mujeres,1988,20151,2958475,681.1279459856852,II. Tumores
+009-041  II.Tumores,Mujeres,1989,20567,3032296,678.2649187282508,II. Tumores
+009-041  II.Tumores,Mujeres,1990,21208,3109970,681.9358386093757,II. Tumores
+009-041  II.Tumores,Mujeres,1991,21760,3186139,682.9582764593761,II. Tumores
+009-041  II.Tumores,Mujeres,1992,22153,3262630,678.9921014641562,II. Tumores
+009-041  II.Tumores,Mujeres,1993,23137,3343367,692.0269297387932,II. Tumores
+009-041  II.Tumores,Mujeres,1994,23809,3427229,694.7011711210426,II. Tumores
+009-041  II.Tumores,Mujeres,1995,24637,3513749,701.1599291810542,II. Tumores
+009-041  II.Tumores,Mujeres,1996,24747,3597952,687.8079529688,II. Tumores
+009-041  II.Tumores,Mujeres,1997,25308,3680634,687.5989299669568,II. Tumores
+009-041  II.Tumores,Mujeres,1998,25916,3767437,687.894714629601,II. Tumores
+009-041  II.Tumores,Mujeres,1999,26438,3840517,688.3969007297716,II. Tumores
+009-041  II.Tumores,Mujeres,2000,27069,3912891,691.7902900949707,II. Tumores
+009-041  II.Tumores,Mujeres,2001,27528,3994792,689.0972045603376,II. Tumores
+009-041  II.Tumores,Mujeres,2002,27766,4065821,682.9125040182536,II. Tumores
+009-041  II.Tumores,Mujeres,2003,28395,4118108,689.5156707886243,II. Tumores
+009-041  II.Tumores,Mujeres,2004,28336,4139000,684.6098091326407,II. Tumores
+009-041  II.Tumores,Mujeres,2005,28219,4180461,675.021247656658,II. Tumores
+009-041  II.Tumores,Mujeres,2006,29058,4250166,683.6909428949364,II. Tumores
+009-041  II.Tumores,Mujeres,2007,29238,4297068,680.4174381229248,II. Tumores
+009-041  II.Tumores,Mujeres,2008,29587,4363318,678.0848886099982,II. Tumores
+009-041  II.Tumores,Mujeres,2009,30114,4441642,677.9925081760305,II. Tumores
+009-041  II.Tumores,Mujeres,2010,30894,4528679,682.1856881443794,II. Tumores
+009-041  II.Tumores,Mujeres,2011,31831,4612933,690.0382034597077,II. Tumores
+009-041  II.Tumores,Mujeres,2012,32139,4675622,687.3737868458999,II. Tumores
+009-041  II.Tumores,Mujeres,2013,32602,4758563,685.122798626392,II. Tumores
+009-041  II.Tumores,Mujeres,2014,32599,4839814,673.558942554404,II. Tumores
+009-041  II.Tumores,Mujeres,2015,33027,4897557,674.356623108215,II. Tumores
+009-041  II.Tumores,Mujeres,2016,33579,4960687,676.9022113267779,II. Tumores
+009-041  II.Tumores,Mujeres,2017,33885,5022684,674.6392964399114,II. Tumores
+009-041  II.Tumores,Mujeres,2018,33725,5091496,662.3789943073706,II. Tumores
+009-041  II.Tumores,Mujeres,2019,34157,5173068,660.285153800414,II. Tumores
+009-041  II.Tumores,Mujeres,2020,34548,5236250,659.7851515874911,II. Tumores
+009-041  II.Tumores,Mujeres,2021,35035,5313145,659.4022937450418,II. Tumores
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1980,174,1703406,10.21482840849451,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1981,185,1731649,10.683458368295192,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1982,176,1763122,9.982292773840948,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1983,198,1786792,11.08131220645716,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1984,213,1816834,11.723690771969261,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1985,274,1854679,14.773445970973953,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1986,263,1906263,13.796627223001233,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1987,323,1973492,16.36692725382216,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1988,312,2039771,15.295834679481178,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1989,360,2102863,17.11951753395252,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1990,389,2165697,17.961884788130565,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1991,426,2229548,19.107011824818304,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1992,373,2294607,16.25550693430291,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1993,417,2361074,17.661454067089807,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1994,428,2430501,17.60953811580411,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1995,400,2501907,15.987804502725321,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1996,417,2573444,16.203966357923466,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1997,460,2643616,17.400409136576567,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1998,466,2715352,17.161679222435986,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,1999,384,2776465,13.830536311460795,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2000,379,2836940,13.359464775427044,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2001,330,2903761,11.364571671015625,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2002,395,2960774,13.341106075641031,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2003,398,3001136,13.26164492378886,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2004,426,3015259,14.128139572753119,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2005,441,3049867,14.459646928866078,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2006,403,3112155,12.9492265006081,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2007,419,3154365,13.283180608458437,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2008,429,3214073,13.347549977862979,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2009,473,3285475,14.39670062928496,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2010,518,3364111,15.397827241728944,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2011,506,3439265,14.712445827814955,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2012,534,3498769,15.26251090026235,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2013,552,3574425,15.443043286682475,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2014,657,3647967,18.010031340744035,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2015,723,3702295,19.528427637451905,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2016,663,3759232,17.636581088903263,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2017,724,3817681,18.964392258022606,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2018,742,3881154,19.11802520590525,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2019,757,3952736,19.15129166228152,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2020,758,4007280,18.91557365594618,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Hombres,2021,835,4073128,20.500215068124547,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1980,219,2475332,8.847298059411827,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1981,262,2528137,10.363362428539277,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1982,242,2584400,9.36387556105866,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1983,266,2629964,10.114206886482096,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1984,296,2681698,11.037782777926521,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1985,316,2739126,11.536526614693884,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1986,360,2801065,12.852254410376053,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1987,349,2878551,12.12415552130221,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1988,369,2958475,12.472642155164401,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1989,455,3032296,15.005131425164297,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1990,457,3109970,14.694675511339337,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1991,548,3186139,17.19950071230414,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1992,490,3262630,15.018558647471517,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1993,554,3343367,16.570122274940204,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1994,554,3427229,16.164662472218808,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1995,599,3513749,17.047318974690565,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1996,588,3597952,16.342630474225338,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1997,596,3680634,16.19286242533216,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1998,664,3767437,17.624714096081764,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,1999,574,3840517,14.94590441859781,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2000,615,3912891,15.717279116642914,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2001,601,3994792,15.044588053645848,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2002,665,4065821,16.35586023093491,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2003,662,4118108,16.075343337280128,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2004,675,4139000,16.308287025851655,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2005,688,4180461,16.457515092235045,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2006,652,4250166,15.340577285687194,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2007,672,4297068,15.6385702995624,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2008,706,4363318,16.180347157828056,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2009,795,4441642,17.89878607956247,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2010,808,4528679,17.84184747914348,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2011,811,4612933,17.581005403720365,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2012,828,4675622,17.70887381400806,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2013,874,4758563,18.366889331926465,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2014,903,4839814,18.65774180578014,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2015,1067,4897557,21.786372266826092,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2016,980,4960687,19.755328243850098,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2017,1024,5022684,20.3875059629473,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2018,976,5091496,19.16921863436601,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2019,1031,5173068,19.930145901813006,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2020,1098,5236250,20.969205060873715,III. Sangre
+"042-043  III.Enfermedades de la sangre y de los órganos hematopoyéticos, y ciertos trastornos que afectan al mecanismo de la inmunidad",Mujeres,2021,1144,5313145,21.531503469225854,III. Sangre
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1980,1981,1703406,116.29640848981394,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1981,2094,1731649,120.9251990443791,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1982,2104,1763122,119.33377270546225,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1983,2356,1786792,131.8564220121872,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1984,2582,1816834,142.11535010903583,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1985,2471,1854679,133.23060216889283,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1986,2596,1906263,136.18267783616426,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1987,2690,1973492,136.30660777950962,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1988,2704,2039771,132.56390055550352,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1989,2806,2102863,133.4371283340855,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1990,2905,2165697,134.13695452318584,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1991,2990,2229548,134.1078998971989,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1992,2823,2294607,123.02760341967056,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1993,3016,2361074,127.73847833655361,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1994,3048,2430501,125.40624340413767,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1995,3173,2501907,126.82325921786861,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1996,3208,2573444,124.65785150172297,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1997,3294,2643616,124.60206020844177,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1998,3622,2715352,133.38970417095095,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,1999,3682,2776465,132.61467369478814,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2000,3514,2836940,123.86585546398585,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2001,3757,2903761,129.38392656971425,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2002,3799,2960774,128.31104299078552,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2003,4104,3001136,136.74821800811426,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2004,3943,3015259,130.76820266517737,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2005,4104,3049867,134.56324488903942,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2006,3765,3112155,120.97726494984987,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2007,4259,3154365,135.01925110125174,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2008,4269,3214073,132.82212320628685,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2009,4310,3285475,131.18346662202575,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2010,4412,3364111,131.14906137163726,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2011,4529,3439265,131.6851129529129,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2012,4542,3498769,129.81708709548985,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2013,4366,3574425,122.14551990879653,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2014,4686,3647967,128.4551093801013,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2015,5197,3702295,140.37239063877945,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2016,4757,3759232,126.54180428342809,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2017,5015,3817681,131.36246847235273,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2018,5200,3881154,133.98076963707186,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2019,5173,3952736,130.87137618095417,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2020,5951,4007280,148.50472140703917,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Hombres,2021,5873,4073128,144.18893783843768,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1980,4192,2475332,169.35102038837618,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1981,4461,2528137,176.45404501417445,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1982,4666,2584400,180.54480730537068,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1983,5030,2629964,191.25737082332685,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1984,5127,2681698,191.1848388595584,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1985,5442,2739126,198.67651214292445,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1986,5631,2801065,201.0306794022988,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1987,5692,2878551,197.73837600931859,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1988,5894,2958475,199.2242625001056,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1989,5902,3032296,194.6379904864169,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1990,5974,3109970,192.09188513072473,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1991,6134,3186139,192.52141855706859,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1992,5829,3262630,178.65954766553364,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1993,6080,3343367,181.85260547226792,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1994,6124,3427229,178.68662992755955,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1995,6326,3513749,180.0356257660977,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1996,6235,3597952,173.29302892312072,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1997,6100,3680634,165.7323167693392,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1998,6476,3767437,171.89404892503842,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,1999,6626,3840517,172.52885483907505,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2000,6283,3912891,160.57181250384946,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2001,6421,3994792,160.73427602738766,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2002,6744,4065821,165.87055849236845,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2003,6949,4118108,168.74253904948583,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2004,6831,4139000,165.03986470161877,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2005,7158,4180461,171.22513521834077,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2006,6636,4250166,156.13507801812918,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2007,6815,4297068,158.59651278499663,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2008,6896,4363318,158.04486402320435,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2009,6986,4441642,157.28417553688476,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2010,7042,4528679,155.49788359916877,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2011,7166,4612933,155.34585046000018,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2012,7188,4675622,153.73355673320043,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2013,6774,4758563,142.3538996961898,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2014,7220,4839814,149.1792866420073,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2015,7751,4897557,158.2625786693243,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2016,6834,4960687,137.76317675354238,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2017,7289,5022684,145.12161226945594,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2018,7213,5091496,141.66759632139554,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2019,7126,5173068,137.75191047169687,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2020,8161,5236250,155.85581284316066,IV. Metabólicas
+"044-045  IV.Enfermedades endocrinas, nutricionales y metabólicas",Mujeres,2021,8009,5313145,150.73934552887226,IV. Metabólicas
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1980,230,1703406,13.50235939053872,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1981,270,1731649,15.592074375349739,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1982,266,1763122,15.086874305918707,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1983,432,1786792,24.17740845045198,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1984,494,1816834,27.190156062689272,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1985,664,1854679,35.80134352090038,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1986,791,1906263,41.49479898628888,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1987,975,1973492,49.40481136989661,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1988,1149,2039771,56.329852713858564,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1989,1510,2102863,71.8068652118564,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1990,1766,2165697,81.54418646745135,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1991,2008,2229548,90.06309799116234,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1992,2216,2294607,96.57427175982642,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1993,2369,2361074,100.33569468809533,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1994,2767,2430501,113.84484104306067,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1995,3001,2501907,119.94850328169672,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1996,3309,2573444,128.58255318553657,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1997,3399,2643616,128.5738927287473,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1998,3788,2715352,139.50309204847105,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,1999,3643,2776465,131.2100098506554,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2000,3499,2836940,123.33711675255734,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2001,3490,2903761,120.18895494498342,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2002,3555,2960774,120.06995468076929,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2003,3894,3001136,129.75086767144174,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2004,3655,3015259,121.21678436247102,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2005,3771,3049867,123.64473598356913,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2006,3843,3112155,123.48356685319337,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2007,3923,3154365,124.36734493313234,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2008,4091,3214073,127.28397892642761,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2009,4592,3285475,139.76670040100745,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2010,4717,3364111,140.2153496124236,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2011,4939,3439265,143.60626471062858,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2012,5500,3498769,157.19814597648485,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2013,5493,3574425,153.6750666191066,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2014,6089,3647967,166.9148871138363,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2015,6922,3702295,186.96511218041783,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2016,6916,3759232,183.97374782934386,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2017,7189,3817681,188.30803307033773,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2018,7358,3881154,189.5827890364567,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2019,7624,3952736,192.87905896067937,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2020,6877,4007280,171.6126649497914,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Hombres,2021,6824,4073128,167.53708697590648,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1980,293,2475332,11.836796033824957,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1981,352,2528137,13.923296087197805,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1982,351,2584400,13.58148893360161,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1983,641,2629964,24.37295719637227,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1984,805,2681698,30.018294379158277,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1985,1050,2739126,38.33339539692588,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1986,1306,2801065,46.62512294430868,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1987,1680,2878551,58.362697065294306,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1988,1911,2958475,64.59408986048555,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1989,2463,3032296,81.22557956083443,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1990,3225,3109970,103.69874950562225,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1991,4000,3186139,125.54380081973824,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1992,4164,3262630,127.62709838381919,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1993,4707,3343367,140.7862194009811,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1994,5269,3427229,153.7393620327092,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1995,5969,3513749,169.87553749570617,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1996,6497,3597952,180.57494930449323,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1997,6985,3680634,189.77708731702202,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1998,7614,3767437,202.100260734287,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,1999,7445,3840517,193.85410870463534,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2000,7303,3912891,186.63949494120843,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2001,7431,3994792,186.017194387092,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2002,7658,4065821,188.35064308045042,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2003,8625,4118108,209.4408403082192,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2004,7704,4139000,186.13191592172024,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2005,8290,4180461,198.30348853870422,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2006,7844,4250166,184.5574972836355,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2007,8012,4297068,186.4527161310922,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2008,8525,4363318,195.3788378477113,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2009,9423,4441642,212.15127198454985,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2010,9654,4528679,213.17474698471676,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2011,9940,4612933,215.48112664979092,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2012,11197,4675622,239.47615953556553,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2013,11116,4758563,233.59993342527986,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2014,12241,4839814,252.92294290648357,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2015,14021,4897557,286.285590958921,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2016,13721,4960687,276.59475391210935,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2017,14223,5022684,283.17529034277294,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2018,14658,5091496,287.8918101870256,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2019,14943,5173068,288.86146480193185,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2020,14440,5236250,275.7698734781571,V. Mentales
+046-049  V.Trastornos mentales y del comportamiento,Mujeres,2021,13250,5313145,249.38148685947777,V. Mentales
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1980,897,1703406,52.65920162310101,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1981,804,1731649,46.429732584374776,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1982,897,1763122,50.87566260304165,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1983,944,1786792,52.83211476209878,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1984,905,1816834,49.81192558043278,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1985,1006,1854679,54.241192141605104,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1986,1033,1906263,54.18979437779572,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1987,1174,1973492,59.48846004949603,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1988,1296,2039771,63.536544053229505,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1989,1328,2102863,63.15199801413596,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1990,1522,2165697,70.27760577772422,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1991,1552,2229548,69.61052195332866,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1992,1606,2294607,69.99019875734712,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1993,1765,2361074,74.7541161352842,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1994,2014,2430501,82.86357421782587,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1995,2150,2501907,85.9344492021486,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1996,2274,2573444,88.36407553457546,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1997,2360,2643616,89.27166426591457,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1998,2791,2715352,102.78593714553399,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,1999,3476,2776465,125.19516723603576,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2000,3547,2836940,125.02908062912857,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2001,3965,2903761,136.54705053205137,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2002,4148,2960774,140.09850127027593,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2003,4863,3001136,162.03864136780206,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2004,4731,3015259,156.9019444100822,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2005,5174,3049867,169.64674197268275,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2006,5239,3112155,168.3399445079053,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2007,5425,3154365,171.9839016727614,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2008,5764,3214073,179.33631252308209,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2009,6333,3285475,192.75751603649397,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2010,6570,3364111,195.29676636710263,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2011,6819,3439265,198.26910691673947,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2012,7376,3498769,210.8170044950095,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2013,7315,3574425,204.648300076236,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2014,7829,3647967,214.61268701169718,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2015,8743,3702295,236.15081996437343,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2016,8636,3759232,229.72777418366306,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2017,8971,3817681,234.9855841805536,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2018,9123,3881154,235.0589541151936,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2019,9153,3952736,231.5611262679825,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2020,9440,4007280,235.5712603062426,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Hombres,2021,8866,4073128,217.67054705867332,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1980,1015,2475332,41.00460059499089,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1981,933,2528137,36.9046455947601,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1982,991,2584400,38.34545735954187,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1983,995,2629964,37.833217488908595,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1984,941,2681698,35.08970808793533,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1985,1106,2739126,40.37784315142859,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1986,1115,2801065,39.806287965470275,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1987,1300,2878551,45.16161082433488,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1988,1461,2958475,49.38355064687043,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1989,1566,3032296,51.64403475122481,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1990,1679,3109970,53.98765904494256,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1991,1894,3186139,59.444989688146066,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1992,1891,3262630,57.95937633136458,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1993,2125,3343367,63.55868201127785,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1994,2484,3427229,72.47837830503886,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1995,2683,3513749,76.35718999848879,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1996,2906,3597952,80.76817033690277,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1997,3251,3680634,88.32717406838061,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1998,3725,3767437,98.87358434925387,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,1999,5225,3840517,136.0493912668529,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2000,5497,3912891,140.48436309623756,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2001,6242,3994792,156.25344198145987,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2002,6833,4065821,168.05953828267403,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2003,8308,4118108,201.74313058326788,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2004,7825,4139000,189.05532737376177,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2005,8848,4180461,211.6512987443251,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2006,8866,4250166,208.6036168940225,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2007,9607,4297068,223.57104891055948,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2008,9979,4363318,228.70210239088695,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2009,10757,4441642,242.18520988409242,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2010,11079,4528679,244.6408765116715,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2011,11712,4612933,253.89486472055847,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2012,12933,4675622,276.604909464452,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2013,12432,4758563,261.25534116076636,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2014,13758,4839814,284.2671226621519,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2015,15183,4897557,310.0117058361955,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2016,14702,4960687,296.37024065416745,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2017,15431,5022684,307.2261762834373,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2018,15131,5091496,297.1818106112624,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2019,15034,5173068,290.62057564292604,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2020,16072,5236250,306.9372165194557,VI-VIII. Nerviosas
+050-052  VI-VIII.Enfermedades del sistema nervioso y de los órganos de los sentidos,Mujeres,2021,14098,5313145,265.34190201848435,VI-VIII. Nerviosas
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1980,45734,1703406,2684.8561059430344,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1981,46343,1731649,2676.2351954697515,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1982,45020,1763122,2553.4251174904516,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1983,47267,1786792,2645.3554750636895,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1984,45843,1816834,2523.2354744572153,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1985,47360,1854679,2553.541610165425,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1986,45383,1906263,2380.731305176673,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1987,45198,1973492,2290.2550403041914,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1988,46382,2039771,2273.882705460564,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1989,46423,2102863,2207.6093402185497,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1990,46878,2165697,2164.568727758315,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1991,48283,2229548,2165.595896567376,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1992,47074,2294607,2051.5059877355907,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1993,47993,2361074,2032.6766547765974,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1994,46997,2430501,1933.6342589449666,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1995,47756,2501907,1908.7839795803761,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1996,48373,2573444,1879.6989559516353,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1997,48417,2643616,1831.4687155774513,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1998,49948,2715352,1839.46685365286,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,1999,50466,2776465,1817.635014307762,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2000,47777,2836940,1684.1032943946645,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2001,47441,2903761,1633.7777110444006,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2002,48206,2960774,1628.1553404616498,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2003,49869,3001136,1661.6707806643885,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2004,47598,3015259,1578.570862403528,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2005,48838,3049867,1601.3157295055817,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2006,46448,3112155,1492.4706513653723,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2007,48126,3154365,1525.6953459729611,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2008,46884,3214073,1458.7098675107877,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2009,46408,3285475,1412.5202596276033,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2010,46258,3364111,1375.0438080075241,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2011,45963,3439265,1336.419263999721,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2012,47273,3498769,1351.1323554084308,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2013,45583,3574425,1275.2540618421144,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2014,45650,3647967,1251.381934101926,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2015,48512,3702295,1310.322381117658,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2016,47117,3759232,1253.367709149103,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2017,48169,3817681,1261.734545133551,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2018,47691,3881154,1228.7840163003066,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2019,46446,3952736,1175.034204156311,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2020,47320,4007280,1180.8508514503603,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Hombres,2021,47191,4073128,1158.5935919519347,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1980,60281,2475332,2435.2692891297006,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1981,61633,2528137,2437.882124267791,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1982,60315,2584400,2333.8105556415417,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1983,64621,2629964,2457.1058767344343,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1984,62358,2681698,2325.3177650876423,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1985,65452,2739126,2389.5213290662787,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1986,64375,2801065,2298.2329935221064,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1987,63813,2878551,2216.844516564063,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1988,65581,2958475,2216.7163825957628,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1989,66147,3032296,2181.4163261106437,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1990,66770,3109970,2146.966047903999,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1991,68204,3186139,2140.647347777357,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1992,66205,3262630,2029.1911739915342,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1993,67658,3343367,2023.6486153030762,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1994,66574,3427229,1942.5022372301357,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1995,66800,3513749,1901.1033514346072,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1996,67334,3597952,1871.453538012736,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1997,66751,3680634,1813.5734224049443,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1998,68783,3767437,1825.7239603475784,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,1999,68653,3840517,1787.5978676829186,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2000,65704,3912891,1679.1676537884648,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2001,65086,3994792,1629.2713112472438,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2002,65908,4065821,1621.0256181961774,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2003,68188,4118108,1655.8089297318088,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2004,64839,4139000,1566.5378110654747,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2005,66327,4180461,1586.5953539573745,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2006,62643,4250166,1473.895372557213,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2007,64342,4297068,1497.346562819113,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2008,64377,4363318,1475.413893738664,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2009,62619,4441642,1409.816459768707,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2010,62234,4528679,1374.2197227933354,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2011,62032,4612933,1344.7409706579306,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2012,64431,4675622,1378.0198655922143,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2013,61526,4758563,1292.9533558765536,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2014,61361,4839814,1267.837978897536,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2015,65247,4897557,1332.2356431992523,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2016,61979,4960687,1249.4035604342705,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2017,63708,5022684,1268.4054979369596,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2018,62293,5091496,1223.471451219838,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2019,59531,5173068,1150.7871151123472,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2020,61194,5236250,1168.6607782286942,IX. Circulatorias
+053-061 IX.Enfermedades del sistema circulatorio,Mujeres,2021,60610,5313145,1140.755616494562,IX. Circulatorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1980,12391,1703406,727.4249356876751,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1981,13300,1731649,768.0540340450057,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1982,11978,1763122,679.3630843469709,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1983,13849,1786792,775.0762259960868,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1984,13156,1816834,724.1167877747774,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1985,14746,1854679,795.0701981313209,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1986,14133,1906263,741.3982225957278,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1987,13920,1973492,705.3486915579085,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1988,14858,2039771,728.4151014991388,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1989,15891,2102863,755.6840364778875,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1990,17424,2165697,804.5446800729742,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1991,17063,2229548,765.3120722227106,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1992,16372,2294607,713.4990872075261,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1993,17726,2361074,750.7600354753811,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1994,17260,2430501,710.1416539223807,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1995,18746,2501907,749.2684580202222,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1996,19666,2573444,764.1899338007744,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1997,19748,2643616,747.0071296285089,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1998,21606,2715352,795.6979426608409,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,1999,23865,2776465,859.54622154430194,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2000,21903,2836940,772.0642664279118,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2001,20300,2903761,699.0933482473248,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2002,22394,2960774,756.3562771086209,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2003,23263,3001136,775.1398137238699,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2004,21209,3015259,703.3889957711758,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2005,24861,3049867,815.1502999966883,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2006,20916,3112155,672.0744950042656,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2007,23205,3154365,735.6472697357472,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2008,23159,3214073,720.5499066138199,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2009,22679,3285475,690.2807052252718,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2010,21579,3364111,641.447324419438,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2011,22483,3439265,653.715256021272,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2012,24694,3498769,705.7910939533305,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2013,22484,3574425,629.0242486553782,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2014,22994,3647967,630.3236843973643,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2015,26860,3702295,725.4959423816849,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2016,24171,3759232,642.9770761687494,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2017,26319,3817681,689.3975688382556,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2018,26976,3881154,695.0510080249328,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2019,24089,3952736,609.425977348348,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2020,21819,4007280,544.484039048931,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Hombres,2021,18925,4073128,464.6306229512061,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1980,10294,2475332,415.8634074136318,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1981,11111,2528137,439.4935875706103,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1982,9362,2584400,362.2504256307073,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1983,10924,2629964,415.3669023606406,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1984,9688,2681698,361.26364713700053,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1985,11026,2739126,402.5371596633379,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1986,10814,2801065,386.06744220501844,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1987,9798,2878551,340.3795868129486,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1988,10502,2958475,354.9801840475245,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1989,11030,3032296,363.7507683946422,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1990,12399,3109970,398.6855178667318,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1991,11789,3186139,370.0089669659735,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1992,11023,3262630,337.85626932873174,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1993,11970,3343367,358.0223170235275,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1994,11626,3427229,339.22448718775433,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1995,12527,3513749,356.51379765600785,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1996,13295,3597952,369.5157689707923,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1997,13624,3680634,370.15362027302905,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1998,15033,3767437,399.024588865056,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,1999,17902,3840517,466.13515836539716,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2000,16125,3912891,412.0993914729544,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2001,14328,3994792,358.66698441370664,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2002,16127,4065821,396.6480570590786,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2003,17592,4118108,427.1864652408339,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2004,15318,4139000,370.0893935733269,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2005,19141,4180461,457.8681633437078,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2006,15777,4250166,371.2090304237529,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2007,17636,4297068,410.41938363553936,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2008,17920,4363318,410.6966304083269,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2009,17484,4441642,393.6382085724153,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2010,16092,4528679,355.3354079633377,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2011,16899,4612933,366.3395934864001,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2012,20002,4675622,427.7933502751078,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2013,17513,4758563,368.0312733066684,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2014,18163,4839814,375.28301707462316,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2015,22098,4897557,451.2045495335736,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2016,19727,4960687,397.6666941494192,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2017,22487,5022684,447.70883455937104,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2018,23493,5091496,461.4164481323367,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2019,20419,5173068,394.7174094753829,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2020,17698,5236250,337.9899737407496,X. Respiratorias
+062-067  X.Enfermedades del sistema respiratorio,Mujeres,2021,14025,5313145,263.9679511852208,X. Respiratorias
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1980,5614,1703406,329.57498094993207,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1981,5494,1731649,317.269839326561,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1982,5646,1763122,320.2274147790113,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1983,5762,1786792,322.4773784525563,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1984,5853,1816834,322.1538126212962,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1985,5992,1854679,323.0747746645107,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1986,6112,1906263,320.6273216235116,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1987,6343,1973492,321.4099677120556,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1988,6345,2039771,311.0643302606028,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1989,6473,2102863,307.81843610354076,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1990,6686,2165697,308.72278070293305,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1991,6691,2229548,300.10567164286215,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1992,6576,2294607,286.5850230562358,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1993,6778,2361074,287.07274740224153,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1994,6736,2430501,277.1445064206927,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1995,6829,2501907,272.951792372778,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1996,7048,2573444,273.87423235166574,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1997,6868,2643616,259.7956738043649,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1998,7250,2715352,267.0003741688002,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,1999,7247,2776465,261.01535585717806,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2000,6977,2836940,245.93399930911477,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2001,7013,2903761,241.5143670570684,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2002,7228,2960774,244.12535370818577,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2003,7456,3001136,248.43925766776312,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2004,7377,3015259,244.65560006619666,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2005,7434,3049867,243.74833394374247,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2006,7300,3112155,234.56415249240476,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2007,7367,3154365,233.54938315635633,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2008,7226,3214073,224.82376722619554,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2009,7318,3285475,222.73796026449753,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2010,7210,3364111,214.3211089051461,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2011,7350,3439265,213.70845224197612,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2012,7574,3498769,216.47613775016302,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2013,7388,3574425,206.69058659784443,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2014,7437,3647967,203.86697577034005,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2015,7810,3702295,210.95023492185254,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2016,7884,3759232,209.72368824270492,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2017,7963,3817681,208.58212092629006,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2018,8552,3881154,220.3468349877382,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2019,8778,3952736,222.07402669948104,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2020,8435,4007280,210.49190473338524,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Hombres,2021,8772,4073128,215.3627384162737,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1980,4714,2475332,190.4391006943715,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1981,4614,2528137,182.505932233894,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1982,4740,2584400,183.40814115462004,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1983,4941,2629964,187.87329408311294,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1984,5115,2681698,190.7373611793722,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1985,5315,2739126,194.0399966996772,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1986,5444,2801065,194.35464725024232,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1987,5615,2878551,195.06341906049258,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1988,5831,2958475,197.0947870101995,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1989,5986,3032296,197.408168595678,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1990,6259,3109970,201.25596066843087,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1991,6386,3186139,200.4306780087121,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1992,6382,3262630,195.60906385339433,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1993,6565,3343367,196.35893995484196,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1994,6707,3427229,195.69745704182594,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1995,6818,3513749,194.03776422277176,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1996,7245,3597952,201.36455405741933,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1997,7295,3680634,198.1995493167753,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1998,7599,3767437,201.70211207247792,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,1999,7647,3840517,199.11381722825337,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2000,7442,3912891,190.1918555870838,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2001,7407,3994792,185.41641216864357,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2002,7740,4065821,190.36745592095667,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2003,7944,4118108,192.90412004736157,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2004,7991,4139000,193.06595796086012,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2005,8175,4180461,195.55259575439166,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2006,7996,4250166,188.13382818459326,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2007,8088,4297068,188.2213639625903,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2008,8184,4363318,187.56368433380285,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2009,8255,4441642,185.85469067520526,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2010,8009,4528679,176.85068868868825,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2011,8332,4612933,180.62261038692736,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2012,8433,4675622,180.36103004049517,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2013,8333,4758563,175.1158910788824,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2014,8521,4839814,176.06048496905046,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2015,8865,4897557,181.0086130697407,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2016,8746,4960687,176.3062253272581,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2017,8900,5022684,177.19609674827242,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2018,9621,5091496,188.96214393569198,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2019,9717,5173068,187.8382422191241,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2020,9445,5236250,180.37717832418238,XI. Digestivas
+068-072  XI.Enfermedades del sistema digestivo,Mujeres,2021,9929,5313145,186.87613456813244,XI. Digestivas
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1980,47,1703406,2.7591777885013906,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1981,41,1731649,2.3676853681086643,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1982,34,1763122,1.9283974676738196,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1983,40,1786792,2.2386489305974058,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1984,70,1816834,3.852856122243419,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1985,66,1854679,3.5585672776798574,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1986,103,1906263,5.403241840186795,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1987,104,1973492,5.269846546122305,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1988,122,2039771,5.981063560566358,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1989,123,2102863,5.849168490767111,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1990,147,2165697,6.7876531204503685,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1991,131,2229548,5.875630396833798,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1992,114,2294607,4.9681710201354745,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1993,143,2361074,6.056565783198663,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1994,128,2430501,5.266403922483471,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1995,161,2501907,6.435091312346942,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1996,173,2573444,6.722508824750023,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1997,219,2643616,8.284107828065801,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1998,270,2715352,9.943462210424283,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,1999,257,2776465,9.256374562618294,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2000,280,2836940,9.869789279998871,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2001,286,2903761,9.84929544821354,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2002,293,2960774,9.896060962437526,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2003,298,3001136,9.929573334897185,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2004,298,3015259,9.883064771550304,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2005,312,3049867,10.229954289810015,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2006,335,3112155,10.764245354103508,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2007,344,3154365,10.905522981646069,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2008,337,3214073,10.485138327598658,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2009,361,3285475,10.987756717065263,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2010,340,3364111,10.1066819733356,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2011,360,3439265,10.4673527628723,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2012,365,3498769,10.432240596621268,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2013,399,3574425,11.162634549612875,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2014,411,3647967,11.266549286218872,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2015,483,3702295,13.04596203165874,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2016,499,3759232,13.273987878375157,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2017,522,3817681,13.673222042386463,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2018,607,3881154,15.639678301865889,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2019,589,3952736,14.901071055592887,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2020,603,4007280,15.047613343714438,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Hombres,2021,676,4073128,16.59658130066131,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1980,89,2475332,3.595477293550926,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1981,91,2528137,3.5994884770880695,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1982,90,2584400,3.482433059897849,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1983,93,2629964,3.5361700768527626,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1984,145,2681698,5.407021968916709,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1985,194,2739126,7.082551149527259,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1986,265,2801065,9.460687274304595,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1987,256,2878551,8.893363362330561,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1988,290,2958475,9.802347493218635,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1989,306,3032296,10.091363112308297,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1990,334,3109970,10.73965343717142,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1991,285,3186139,8.94499580840635,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1992,317,3262630,9.716087941323412,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1993,352,3343367,10.528308737868143,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1994,341,3427229,9.949729066835044,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1995,387,3513749,11.013877200676543,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1996,462,3597952,12.840638229748478,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1997,503,3680634,13.666123825406165,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1998,596,3767437,15.819773495880622,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,1999,612,3840517,15.935354536902194,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2000,619,3912891,15.819505322279612,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2001,645,3994792,16.146022120801284,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2002,679,4065821,16.70019413053354,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2003,682,4118108,16.561003256835424,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2004,644,4139000,15.559313843923654,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2005,745,4180461,17.821001080981258,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2006,704,4250166,16.564058909699057,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2007,792,4297068,18.43117213876997,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2008,836,4363318,19.159731195388463,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2009,779,4441642,17.53855893833857,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2010,752,4528679,16.605283792470164,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2011,753,4612933,16.32367086190066,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2012,892,4675622,19.077675654704336,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2013,859,4758563,18.051668119135968,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2014,858,4839814,17.7279540081499,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2015,1017,4897557,20.76545510343218,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2016,967,4960687,19.493267767145962,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2017,1117,5022684,22.239105625597787,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2018,1165,5091496,22.881290685488114,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2019,1122,5173068,21.68925674280717,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2020,1235,5236250,23.585581284316067,XII. Piel
+073  XII.Enfermedades de la piel y del tejido subcutáneo,Mujeres,2021,1266,5313145,23.827695272762178,XII. Piel
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1980,142,1703406,8.33623927589782,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1981,105,1731649,6.063584479302676,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1982,110,1763122,6.238932983650593,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1983,141,1786792,7.891237480355856,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1984,347,1816834,19.099158205978092,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1985,587,1854679,31.649681696940547,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1986,645,1906263,33.8358348244707,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1987,680,1973492,34.45668895541507,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1988,675,2039771,33.0919500277237,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1989,686,2102863,32.62219174525397,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1990,722,2165697,33.337996958946704,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1991,780,2229548,34.984669538399714,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1992,766,2294607,33.382622819506786,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1993,683,2361074,28.927513495976832,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1994,733,2430501,30.158391212346753,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1995,724,2501907,28.93792614993283,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1996,753,2573444,29.260399682293457,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1997,753,2643616,28.483713217048166,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1998,839,2715352,30.898388127948053,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,1999,875,2776465,31.51489393887551,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2000,813,2836940,28.657638159425296,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2001,916,2903761,31.54529591106155,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2002,970,2960774,32.761703527523544,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2003,977,3001136,32.554339423471646,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2004,991,3015259,32.86616506243742,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2005,1004,3049867,32.91946829156812,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2006,953,3112155,30.621868126748186,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2007,995,3154365,31.543591182377433,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2008,990,3214073,30.80203841045303,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2009,1000,3285475,30.43699921624727,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2010,950,3364111,28.239258454908292,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2011,940,3439265,27.33142110305545,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2012,1117,3498769,31.925514373769747,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2013,1007,3574425,28.17236338711821,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2014,1168,3647967,32.01783349465606,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2015,1249,3702295,33.73583142348192,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2016,1332,3759232,35.43276924648438,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2017,1568,3817681,41.07205395107658,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2018,1596,3881154,41.12179006553206,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2019,1617,3952736,40.90837333937809,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2020,1632,4007280,40.72587890040127,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Hombres,2021,1595,4073128,39.159093453483415,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1980,269,2475332,10.867229123204483,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1981,220,2528137,8.702060054498629,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1982,244,2584400,9.441262962389722,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1983,258,2629964,9.810020213204439,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1984,883,2681698,32.926899300368646,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1985,1377,2739126,50.27150996339708,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1986,1594,2801065,56.90692647260953,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1987,1662,2878551,57.737382453880436,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1988,1807,2958475,61.07876524222783,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1989,1795,3032296,59.196067930043775,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1990,1903,3109970,61.190300871069496,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1991,1948,3186139,61.13983099921253,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1992,1906,3262630,58.41912812669534,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1993,1860,3343367,55.63254048987144,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1994,1851,3427229,54.008646635518076,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1995,2000,3513749,56.919262019000215,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1996,1926,3597952,53.53045287986054,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1997,1967,3680634,53.44187985004758,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1998,1989,3767437,52.794512555883486,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,1999,2126,3840517,55.35713030302952,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2000,2128,3912891,54.38434139872539,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2001,2232,3994792,55.87274631570305,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2002,2306,4065821,56.71671231960285,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2003,2373,4118108,57.62354945523526,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2004,2358,4139000,56.97028267697511,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2005,2366,4180461,56.59662893637807,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2006,2214,4250166,52.09208299158198,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2007,2206,4297068,51.337330477432516,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2008,2190,4363318,50.19116186351763,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2009,2254,4441642,50.74699851991674,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2010,2178,4528679,48.093494813829814,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2011,2217,4612933,48.06052895197047,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2012,2439,4675622,52.164182647784614,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2013,2117,4758563,44.48822049849923,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2014,2272,4839814,46.94395280479787,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2015,2671,4897557,54.5373948685028,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2016,2683,4960687,54.085250692091634,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2017,3227,5022684,64.24851732659272,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2018,3361,5091496,66.01203261281164,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2019,3311,5173068,64.00457136847999,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2020,3378,5236250,64.51181666268799,XIII. Huesos
+074-076  XIII.Enfermedades del sistema osteomuscular y del tejido conjuntivo,Mujeres,2021,3294,5313145,61.99717869548074,XIII. Huesos
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1980,2505,1703406,147.05830553608476,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1981,2550,1731649,147.25848021163642,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1982,2424,1763122,137.4833959306276,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1983,2453,1786792,137.28514566888592,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1984,2653,1816834,146.02324703302557,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1985,2869,1854679,154.6898412070229,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1986,2898,1906263,152.0251927462265,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1987,2856,1973492,144.7180936127433,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1988,3108,2039771,152.37004546098555,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1989,3120,2102863,148.36915196092184,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1990,3143,2165697,145.12648814677215,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1991,3112,2229548,139.5798610301281,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1992,3106,2294607,135.36087007491915,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1993,3036,2361074,128.58555047406392,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1994,2974,2430501,122.36160363645192,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1995,3068,2501907,122.6264605359032,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1996,3050,2573444,118.51821916466804,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1997,3298,2643616,124.75336811397723,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1998,3412,2715352,125.65590022950984,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,1999,3447,2776465,124.1506736083473,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2000,3500,2836940,123.3723659999859,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2001,3555,2903761,122.42743118321376,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2002,3729,2960774,125.94679634446938,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2003,3914,3001136,130.41728198922007,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2004,3758,3015259,124.63274299156392,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2005,4226,3049867,138.5634193228754,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2006,4089,3112155,131.38805747143059,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2007,4484,3154365,142.15222398168888,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2008,4633,3214073,144.14731712689786,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2009,4717,3285475,143.57132530303838,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2010,4584,3364111,136.26185342873646,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2011,4774,3439265,138.80872802764546,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2012,5006,3498769,143.07889431968786,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2013,4982,3574425,139.37906096784798,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2014,4815,3647967,131.99132557942548,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2015,5071,3702295,136.96909619573805,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2016,5103,3759232,135.74581191051792,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2017,5520,3817681,144.59039401144307,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2018,5885,3881154,151.63015948349383,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2019,5961,3952736,150.80693474089844,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2020,6486,4007280,161.85542312990358,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Hombres,2021,6633,4073128,162.84781622379654,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1980,1842,2475332,74.4142603901214,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1981,1925,2528137,76.143025476863,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1982,1965,2584400,76.03312180776969,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1983,2152,2629964,81.82621511168975,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1984,2312,2681698,86.21403304920987,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1985,2796,2739126,102.07635574267121,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1986,2710,2801065,96.74891514477528,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1987,2867,2878551,99.59872171797547,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1988,3032,2958475,102.48523310151344,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1989,3135,3032296,103.38700443492326,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1990,3167,3109970,101.83377974707152,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1991,3071,3186139,96.38625307935405,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1992,3220,3262630,98.69338539766999,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1993,3241,3343367,96.93820630520072,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1994,3239,3427229,94.50783708938037,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1995,3126,3513749,88.96480653569735,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1996,3371,3597952,93.69218933437689,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1997,3449,3680634,93.70668205531982,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1998,3750,3767437,99.53716545226901,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,1999,3695,3840517,96.21100492459739,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2000,3865,3912891,98.77607119646318,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2001,4167,3994792,104.3108126781069,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2002,4089,4065821,100.57009396134261,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2003,4609,4118108,111.92032846151679,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2004,4291,4139000,103.67238463396956,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2005,4820,4180461,115.29828887292574,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2006,4813,4250166,113.24263569940562,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2007,5160,4297068,120.08187908592556,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2008,5413,4363318,124.05696765626527,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2009,5642,4441642,127.02509567407729,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2010,5458,4528679,120.520796461838,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2011,5798,4612933,125.69009781845955,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2012,6389,4675622,136.64492125325785,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2013,6275,4758563,131.86754068402584,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2014,6317,4839814,130.52154483622718,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2015,6658,4897557,135.9453294775334,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2016,6672,4960687,134.49750004384472,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2017,7244,5022684,144.2256769488186,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2018,7684,5091496,150.91831555990618,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2019,7737,5173068,149.5630832612291,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2020,8862,5236250,169.2432561470518,XIV. Genitourinarias
+077-080  XIV.Enfermedades del sistema genitourinario,Mujeres,2021,9370,5313145,176.35505900930616,XIV. Genitourinarias
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1980,18,1703406,1.056706387085639,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1981,23,1731649,1.328213743085348,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1982,11,1763122,0.6238932983650592,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1983,15,1786792,0.8394933489740273,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1984,5,1816834,0.2752040087316728,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1985,24,1854679,1.2940244646108572,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1986,22,1906263,1.1540904901369853,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1987,49,1973492,2.482908468846086,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1988,57,2039771,2.794431335674446,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1989,33,2102863,1.5692891072789812,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1990,18,2165697,0.831141198422494,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1991,39,2229548,1.7492334769199858,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1992,30,2294607,1.3074134263514405,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1993,36,2361074,1.5247298475185445,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1994,35,2430501,1.4400323225540743,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1995,24,2501907,0.9592682701635192,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1996,53,2573444,2.0594969231893137,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1997,42,2643616,1.5887330081222082,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1998,49,2715352,1.8045542530029257,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,1999,63,2776465,2.2690723635990366,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2000,54,2836940,1.9034593611426396,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2001,41,2903761,1.4119619348837593,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2002,36,2960774,1.2158982752482967,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2003,45,3001136,1.499432215001253,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2004,50,3015259,1.6582323442198499,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2005,40,3049867,1.3115326012576942,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2006,35,3112155,1.1246226489361872,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2007,42,3154365,1.331488271014927,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2008,36,3214073,1.1200741240164738,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2009,32,3285475,0.9739839749199127,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2010,71,3364111,2.110513000314199,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2011,52,3439265,1.51195095463711,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2012,66,3498769,1.8863777517178186,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2013,66,3574425,1.846450827755513,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2014,78,3647967,2.138177236800662,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2015,75,3702295,2.0257705018103636,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2016,88,3759232,2.3409036739419116,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2017,87,3817681,2.278870340397744,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2018,93,3881154,2.3961945338937856,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2019,90,3952736,2.276903896440339,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2020,103,4007280,2.5703220139346388,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombres,2021,106,4073128,2.602422511642158,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1980,25,2475332,1.0099655318963274,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1981,23,2528137,0.9097608238794022,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1982,13,2584400,0.5030181086519115,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1983,25,2629964,0.9505833539926781,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1984,11,2681698,0.4101878735040262,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1985,32,2739126,1.1682558597158363,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1986,27,2801065,0.963919080778204,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1987,38,2878551,1.3201086240959425,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1988,50,2958475,1.6900599126239024,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1989,40,3032296,1.3191324329814769,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1990,38,3109970,1.2218767383608202,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1991,56,3186139,1.7576132114763356,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1992,45,3262630,1.3792553859922823,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1993,55,3343367,1.6450482402918971,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1994,31,3427229,0.9045208242577312,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1995,39,3513749,1.1099256093705043,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1996,43,3597952,1.1951243374008325,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1997,63,3680634,1.7116616322079292,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1998,60,3767437,1.5925946472363044,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,1999,60,3840517,1.5622896604806074,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2000,80,3912891,2.0445241127340372,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2001,54,3994792,1.3517599915089447,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2002,63,4065821,1.5495025481938334,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2003,55,4118108,1.3355647787770502,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2004,60,4139000,1.449625513409036,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2005,52,4180461,1.2438819546456719,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2006,48,4250166,1.1293676529340266,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2007,44,4297068,1.023954007709443,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2008,69,4363318,1.581365373782062,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2009,66,4441642,1.4859369575485823,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2010,83,4528679,1.8327640356050847,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2011,63,4612933,1.3657254505972665,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2012,78,4675622,1.6682272433485856,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2013,69,4758563,1.4500175788363,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2014,93,4839814,1.9215614484358283,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2015,106,4897557,2.1643443863950944,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2016,111,4960687,2.2375933010891433,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2017,113,5022684,2.2497931384893017,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2018,91,5091496,1.7872939505402732,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2019,107,5173068,2.068405054795336,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2020,117,5236250,2.2344234900931013,XVII. Congénitas
+"083-085  XVII.Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujeres,2021,130,5313145,2.4467617578665743,XVII. Congénitas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1980,5273,1703406,309.55626550569855,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1981,5374,1731649,310.34002849307217,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1982,5358,1763122,303.8927538763625,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1983,5558,1786792,311.0602689065095,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1984,5275,1816834,290.3402292119148,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1985,5506,1854679,296.8707792561408,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1986,5039,1906263,264.33918090001225,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1987,3943,1973492,199.7981243400024,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1988,3911,2039771,191.73720971618874,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1989,3509,2102863,166.867741740665,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1990,3672,2165697,169.5528044781888,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1991,3327,2229548,149.22307122340493,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1992,2864,2294607,124.81440176901754,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1993,2683,2361074,113.63472724700708,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1994,2516,2430501,103.51775210131572,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1995,2514,2501907,100.48335129962864,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1996,2864,2573444,111.29055071724895,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1997,2559,2643616,96.79923256630312,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1998,2546,2715352,93.76316588051937,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,1999,2981,2776465,107.36674152204333,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2000,3030,2836940,106.80521970855924,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2001,3105,2903761,106.93028799546519,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2002,3130,2960774,105.71560004242134,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2003,3280,3001136,109.29194811564687,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2004,3253,3015259,107.88459631494342,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2005,3366,3049867,110.36546839583497,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2006,3266,3112155,104.94335918358821,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2007,3360,3154365,106.51906168119415,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2008,3438,3214073,106.96707884357325,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2009,3415,3285475,103.94235232348444,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2010,3358,3364111,99.81834725429691,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2011,3275,3439265,95.22383416224106,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2012,3076,3498769,87.91663582248499,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2013,2846,3574425,79.62119781503318,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2014,2762,3647967,75.71340420568498,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2015,3046,3702295,82.27329264685824,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2016,2665,3759232,70.89213967108175,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2017,3052,3817681,79.94381929763121,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2018,3264,3881154,84.0986984798851,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2019,3328,3952736,84.19484630392719,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2020,3194,4007280,79.70493701463337,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Hombres,2021,2988,4073128,73.35885344138461,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1980,7751,2475332,313.1297135091374,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1981,7762,2528137,307.02450065008344,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1982,7741,2584400,299.52793685188055,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1983,8434,2629964,320.6888003029699,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1984,7596,2681698,283.25337155787116,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1985,8067,2739126,294.5100006352391,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1986,7448,2801065,265.89886346800233,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1987,5904,2878551,205.10319254374858,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1988,6121,2958475,206.89713450341816,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1989,5783,3032296,190.713571498297,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1990,5800,3109970,186.49697585507258,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1991,5263,3186139,165.1842559285706,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1992,4809,3262630,147.39642558304192,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1993,4852,3343367,145.12316476175067,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1994,4237,3427229,123.62757201225831,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1995,4365,3513749,124.22628935646797,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1996,4726,3597952,131.35250275712406,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1997,4381,3680634,119.02840651909428,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1998,4330,3767437,114.93224704221994,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,1999,5068,3840517,131.96139998859528,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2000,4979,3912891,127.24606946628465,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2001,5039,3994792,126.13923328173283,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2002,5351,4065821,131.6093354823048,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2003,5910,4118108,143.51250622858848,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2004,5514,4139000,133.2205846822904,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2005,5707,4180461,136.5160445223625,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2006,5302,4250166,124.74806866367102,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2007,5806,4297068,135.11538565365964,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2008,5993,4363318,137.34960413153476,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2009,5251,4441642,118.22204491041825,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2010,4526,4528679,99.94084367648932,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2011,4592,4612933,99.54621062131187,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2012,4482,4675622,95.85890390626103,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2013,4252,4758563,89.35470645234706,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2014,4033,4839814,83.32964861872792,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2015,4395,4897557,89.73861866232491,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2016,3862,4960687,77.85212007933579,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2017,4321,5022684,86.02970045497587,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2018,4790,5091496,94.07843981415284,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2019,4779,5173068,92.38231548473749,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2020,4925,5236250,94.05586058725233,XVIII. Otros síntomas
+"086-089  XVIII.Síntomas, signos y hallazgos anormales clínicos y de laboratorio, no clasificados en otra parte",Mujeres,2021,4929,5313145,92.76991311172573,XVIII. Otros síntomas
+090-102  XX.Causas externas de mortalidad,Hombres,1980,2280,1703406,133.84947569751426,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1981,2265,1731649,130.8001794821006,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1982,2312,1763122,131.13102780181973,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1983,2541,1786792,142.2101733162002,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1984,2435,1816834,134.02435225232466,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1985,2417,1854679,130.31904712351843,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1986,2629,1906263,137.91381357136976,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1987,2683,1973492,135.95190656967446,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1988,2680,2039771,131.38729788785113,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1989,2948,2102863,140.1898269169223,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1990,2947,2165697,136.07628398617166,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1991,2831,2229548,126.9764095682174,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1992,2752,2294607,119.93339164397216,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1993,2693,2361074,114.05826331576223,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1994,2785,2430501,114.5854290946599,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1995,2987,2501907,119.38893012410134,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1996,2995,2573444,116.38100537645272,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1997,3158,2643616,119.45759142023653,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1998,3223,2715352,118.69547668221284,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,1999,3223,2776465,116.08286075999517,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2000,3238,2836940,114.13706317370124,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2001,3227,2903761,111.1317357041437,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2002,3247,2960774,109.6672694369783,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2003,3554,3001136,118.42182426921006,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2004,3837,3015259,127.25275009543127,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2005,3918,3049867,128.46461829319117,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2006,3849,3112155,123.6763593072967,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2007,3795,3154365,120.30947591670589,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2008,3647,3214073,113.4697313968911,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2009,3749,3285475,114.10831006171101,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2010,3748,3364111,111.41130598841715,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2011,3880,3439265,112.81480199984588,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2012,3993,3498769,114.12585397892802,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2013,4190,3574425,117.22165103478183,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2014,4338,3647967,118.91554940052912,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2015,4585,3702295,123.84210334400689,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2016,4778,3759232,127.1004290238006,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2017,4834,3817681,126.62137040784707,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2018,4913,3881154,126.58606177441038,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2019,5071,3952736,128.29088509832175,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2020,4906,4007280,122.4271825277994,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Hombres,2021,5046,4073128,123.8851320164748,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1980,2163,2475332,87.38221781967025,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1981,2168,2528137,85.75484635524103,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1982,2297,2584400,88.8794304287262,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1983,2490,2629964,94.67810205767076,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1984,2029,2681698,75.66101775815174,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1985,1679,2739126,61.296924639465296,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1986,1771,2801065,63.225951557711085,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1987,1855,2878551,64.44214467626247,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1988,1930,2958475,65.23631262728264,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1989,1976,3032296,65.16514218928495,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1990,1988,3109970,63.9234462068766,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1991,2079,3186139,65.25139047605896,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1992,1879,3262630,57.59157489509996,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1993,2029,3343367,60.68732508276835,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1994,1996,3427229,58.239469845755856,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1995,2187,3513749,62.24121301777674,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1996,2319,3597952,64.45333345191932,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1997,2287,3680634,62.13603417237356,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1998,2449,3767437,65.00440485136181,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,1999,2450,3840517,63.79349446962479,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2000,2266,3912891,57.911145493191604,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2001,2384,3994792,59.67770036587637,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2002,2433,4065821,59.84031269453328,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2003,2675,4118108,64.95701424052015,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2004,3079,4139000,74.38994926310703,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2005,3303,4180461,79.01042492682026,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2006,3148,4250166,74.06769523825658,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2007,3183,4297068,74.07376378498084,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2008,3080,4363318,70.58848335143118,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2009,3180,4441642,71.59514431824988,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2010,3339,4528679,73.73010981789612,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2011,3717,4612933,80.57780158523872,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2012,3555,4675622,76.03266474492591,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2013,3952,4758563,83.05028219653707,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2014,4029,4839814,83.24700081449411,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2015,4314,4897557,88.08473285762676,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2016,4443,4960687,89.56420753818978,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2017,4397,5022684,87.54283566316336,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2018,4430,5091496,87.00782638344408,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2019,4476,5173068,86.5250563108778,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2020,4319,5236250,82.48269276677011,XX. Causas externas
+090-102  XX.Causas externas de mortalidad,Mujeres,2021,4563,5313145,85.88133770111675,XX. Causas externas
